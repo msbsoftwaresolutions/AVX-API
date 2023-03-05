@@ -1,6 +1,6 @@
 # AVX-API
 
-Proprietary API Software commissioned for the [Arvaux Network](https://www.arvaux.net) Game Development Team. API includes uniform utilities, libraries, wrappers, and more to simplify and streamline game development, while allowing for the scalability and integration of new code for future features.
+Proprietary API Software commissioned for the [Arvaux Network](https://www.arvaux.net) Game Development Team. API includes uniform utilities, libraries, wrappers, and more to simplify and streamline game development, while allowing for the scalability and integration of new code for future features. [Arvaux Network](https://www.arvaux.net) has allowed for portions of their software to be published for public use.
 
 
 ## Authors
