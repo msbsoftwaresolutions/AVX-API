@@ -1,0 +1,5 @@
+name: AVX-API
+author: [maxsaintbas, havardolson]
+main: net.arvaux.core.Main
+version: 3.0.1
+softdepend: [ProtocolLib, AVX-Nametag, AVX-Functions]
