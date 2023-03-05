@@ -7,7 +7,7 @@ Proprietary API Software commissioned for the [Arvaux Network](https://www.arvau
 
 Project development sourced to [MSB Software Solutions](https://github.com/msbsoftwaresolutions) by client.
 - [Max Bas](https://github.com/maxsaintbas)
-- [Håvard Olsen](https://github.com/HavardOlson)
+- [Håvard Olson](https://github.com/HavardOlson)
 - Thomas Jorde
 
 
