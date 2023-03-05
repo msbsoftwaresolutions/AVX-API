@@ -1,2 +1,2 @@
-# AVX
+# AVX Public
 API developed by Max Bas and Håvard Olson for Arvaux Game Development.
